@@ -1,0 +1,7 @@
+.env
+.env
+.env.*
+config/secrets.yml
+secrets.json
+credentials.*
+api_key.txt
